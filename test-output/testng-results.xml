@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-30T10:58:25 PET" name="Default suite" finished-at="2021-08-30T10:58:32 PET" duration-ms="7509">
+    <groups>
+    </groups>
+    <test started-at="2021-08-30T10:58:25 PET" name="Default test" finished-at="2021-08-30T10:58:32 PET" duration-ms="7509">
+      <class name="qaclickacademy.ExtendReportDemo">
+        <test-method is-config="true" signature="config()[pri:0, instance:qaclickacademy.ExtendReportDemo@595b007d]" started-at="2021-08-30T10:58:25 PET" name="config" finished-at="2021-08-30T10:58:25 PET" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="initialDemo()[pri:0, instance:qaclickacademy.ExtendReportDemo@595b007d]" started-at="2021-08-30T10:58:25 PET" name="initialDemo" finished-at="2021-08-30T10:58:32 PET" duration-ms="7240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialDemo -->
+      </class> <!-- qaclickacademy.ExtendReportDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
